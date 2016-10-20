@@ -1,0 +1,30 @@
+#aligncenter
+	{
+		text-align: center;
+	}
+	#alignright	
+	{
+		text-align: right;
+	}
+	#alignjustify
+	{
+		text-align: justify;
+	}
+	.background
+	{
+	  background-color: white;
+	}
+	
+	img
+	{
+		border-style: solid;
+		border-radius: 10px;
+		border-color: pink;
+	}
+	
+	/*
+	.active
+	{
+		font-style: bold;
+	}
+	*/
